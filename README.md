@@ -1,25 +1,31 @@
 # AI Chatbot
 
-Пет-проект интерактивного чат-бота с AI.
+Pet project of an interactive AI chatbot.
 
-## Технологии
+## Technologies
 
 - React 19
 - TypeScript
 - Vite
 - Tailwind CSS
+- pnpm
 
-## Установка и запуск
-# Установка зависимостей
-npm install
+## Installation and Setup
 
-# Запуск dev-сервера
-npm run dev
+### Install dependencies:
+```bash
+pnpm install
+```
 
-## Функциональность
+### Run dev server:
+```bash
+pnpm dev
+```
 
-будет вноситься по мере добавления
+## Features
 
-## В разработке
+Will be added as development progresses.
 
-Проект находится в разработке в рамках [DevChallenges.io](https://devchallenges.io/challenge/ai-chat-bot)
+## In Development
+
+This project is being developed as part of [DevChallenges.io](https://devchallenges.io/challenge/ai-chat-bot)
