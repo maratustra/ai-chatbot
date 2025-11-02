@@ -13,6 +13,7 @@
     "format:check": "prettier --check \"src/**/*.{ts,tsx,json,css,md}\""
   },
   "dependencies": {
+    "@fontsource/dm-sans": "^5.2.8",
     "@tailwindcss/vite": "^4.1.16",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
