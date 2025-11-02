@@ -50,7 +50,7 @@ export const ChatWindow = () => {
       className="flex-1 flex flex-col justify-center items-center relative overflow-hidden"
       style={{
         backgroundImage: "url(/BackgroundImage.png)",
-        backgroundSize: "auto",
+        backgroundSize: "contain",
         backgroundPosition: "top",
         backgroundRepeat: "no-repeat",
       }}
