@@ -12,7 +12,7 @@ export const Message = ({ message }: MessageProps) => {
       <div className={`flex gap-3 ${isUser ? "justify-end" : "justify-start"}`}>
         {!isUser && (
           <div className="flex gap-3 justify-start">
-            <img src="/Logo.svg" alt="" />
+            <img src="/Logo.svg" alt="Simplechat.ai" />
           </div>
         )}
 
