@@ -18,7 +18,7 @@ export const Message = ({ message }: MessageProps) => {
 
         <div
           className={`max-w-1/2 text-white px-4 py-3 rounded-lg ${
-            isUser ? "bg-purple" : "bg-dark-700"
+            isUser ? "bg-purple-dark" : "bg-dark-700"
           }`}
         >
           <p>{message.content}</p>

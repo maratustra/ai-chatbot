@@ -9,7 +9,7 @@ export const MessageInput = () => {
           <input
             id="message-input"
             type="text"
-            className="w-full bg-transparent border-2 border-dark-400 rounded-lg px-4 py-3 text-dark-100 placeholder-dark-200 focus:outline-none focus:border-purple transition-colors pr-12"
+            className="w-full border-2 border-dark-200 rounded-lg px-4 py-3 text-white placeholder-dark-200 focus:outline-none focus:border-purple transition-colors pr-12"
             placeholder="Ask simplechat.ai anything"
             aria-label="Message input"
           />
